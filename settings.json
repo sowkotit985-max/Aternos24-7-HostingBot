@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "disco Bot",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Thevoidcentury-7rtw.aternos.me",
+    "port": 60915,
     "version": "",
     "try-creative": false
   },
